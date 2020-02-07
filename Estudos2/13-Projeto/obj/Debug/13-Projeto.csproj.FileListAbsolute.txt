@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\13-Projeto\bin\Debug\13-Projeto.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\13-Projeto\bin\Debug\13-Projeto.exe
+C:\Users\igor.lima\source\repos\Estudos2\13-Projeto\bin\Debug\13-Projeto.pdb
+C:\Users\igor.lima\source\repos\Estudos2\13-Projeto\obj\Debug\13-Projeto.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\13-Projeto\obj\Debug\13-Projeto.exe
+C:\Users\igor.lima\source\repos\Estudos2\13-Projeto\obj\Debug\13-Projeto.pdb

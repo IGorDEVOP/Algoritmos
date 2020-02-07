@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\igor.lima\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\igor.lima\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\igor.lima\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Arvore.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\igor.lima\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

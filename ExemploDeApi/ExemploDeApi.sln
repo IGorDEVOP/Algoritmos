@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploDeApi", "ExemploDeApi\ExemploDeApi.csproj", "{412E3AE6-2482-4A52-8517-817918D5A2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412E3AE6-2482-4A52-8517-817918D5A2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412E3AE6-2482-4A52-8517-817918D5A2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412E3AE6-2482-4A52-8517-817918D5A2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412E3AE6-2482-4A52-8517-817918D5A2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14D5464-952C-4699-B230-1A70B04FB10D}
+	EndGlobalSection
+EndGlobal

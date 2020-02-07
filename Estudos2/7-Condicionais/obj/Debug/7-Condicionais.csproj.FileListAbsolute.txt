@@ -1,0 +1,5 @@
+C:\Users\igor.lima\source\repos\Estudos2\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Users\igor.lima\source\repos\Estudos2\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Users\igor.lima\source\repos\Estudos2\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Users\igor.lima\source\repos\Estudos2\7-Condicionais\obj\Debug\7-Condicionais.pdb

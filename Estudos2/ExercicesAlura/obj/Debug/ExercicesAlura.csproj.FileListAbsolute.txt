@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\ExercicesAlura\bin\Debug\ExercicesAlura.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\ExercicesAlura\bin\Debug\ExercicesAlura.exe
+C:\Users\igor.lima\source\repos\Estudos2\ExercicesAlura\bin\Debug\ExercicesAlura.pdb
+C:\Users\igor.lima\source\repos\Estudos2\ExercicesAlura\obj\Debug\ExercicesAlura.exe
+C:\Users\igor.lima\source\repos\Estudos2\ExercicesAlura\obj\Debug\ExercicesAlura.pdb
+C:\Users\igor.lima\source\repos\Estudos2\ExercicesAlura\obj\Debug\ExercicesAlura.csprojAssemblyReference.cache

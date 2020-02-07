@@ -1,0 +1,12 @@
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\bin\Debug\ExemploRefit.exe.config
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\bin\Debug\ExemploRefit.exe
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\bin\Debug\ExemploRefit.pdb
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\bin\Debug\Refit.dll
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\bin\Debug\Refit.xml
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\obj\Debug\ExemploRefit.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\obj\Debug\RefitStubs.g.cs
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\obj\Debug\ExemploRefit.csproj.CopyComplete
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\obj\Debug\ExemploRefit.exe
+C:\Users\igor.lima\source\repos\ExemploRefit\ExemploRefit\obj\Debug\ExemploRefit.pdb

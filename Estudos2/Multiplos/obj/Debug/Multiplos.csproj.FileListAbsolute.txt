@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\Multiplos\bin\Debug\Multiplos.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\Multiplos\bin\Debug\Multiplos.exe
+C:\Users\igor.lima\source\repos\Estudos2\Multiplos\bin\Debug\Multiplos.pdb
+C:\Users\igor.lima\source\repos\Estudos2\Multiplos\obj\Debug\Multiplos.exe
+C:\Users\igor.lima\source\repos\Estudos2\Multiplos\obj\Debug\Multiplos.pdb
+C:\Users\igor.lima\source\repos\Estudos2\Multiplos\obj\Debug\Multiplos.csprojAssemblyReference.cache

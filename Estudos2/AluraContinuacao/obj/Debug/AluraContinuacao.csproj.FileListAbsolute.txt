@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\AluraContinuacao\bin\Debug\AluraContinuacao.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\AluraContinuacao\bin\Debug\AluraContinuacao.exe
+C:\Users\igor.lima\source\repos\Estudos2\AluraContinuacao\bin\Debug\AluraContinuacao.pdb
+C:\Users\igor.lima\source\repos\Estudos2\AluraContinuacao\obj\Debug\AluraContinuacao.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\AluraContinuacao\obj\Debug\AluraContinuacao.exe
+C:\Users\igor.lima\source\repos\Estudos2\AluraContinuacao\obj\Debug\AluraContinuacao.pdb

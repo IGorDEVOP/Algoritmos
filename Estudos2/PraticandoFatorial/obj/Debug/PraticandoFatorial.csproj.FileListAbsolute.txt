@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\PraticandoFatorial\bin\Debug\PraticandoFatorial.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\PraticandoFatorial\bin\Debug\PraticandoFatorial.exe
+C:\Users\igor.lima\source\repos\Estudos2\PraticandoFatorial\bin\Debug\PraticandoFatorial.pdb
+C:\Users\igor.lima\source\repos\Estudos2\PraticandoFatorial\obj\Debug\PraticandoFatorial.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\PraticandoFatorial\obj\Debug\PraticandoFatorial.exe
+C:\Users\igor.lima\source\repos\Estudos2\PraticandoFatorial\obj\Debug\PraticandoFatorial.pdb

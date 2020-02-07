@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\ClassesEObjetos\bin\Debug\ClassesEObjetos.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\ClassesEObjetos\bin\Debug\ClassesEObjetos.exe
+C:\Users\igor.lima\source\repos\Estudos2\ClassesEObjetos\bin\Debug\ClassesEObjetos.pdb
+C:\Users\igor.lima\source\repos\Estudos2\ClassesEObjetos\obj\Debug\ClassesEObjetos.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\ClassesEObjetos\obj\Debug\ClassesEObjetos.exe
+C:\Users\igor.lima\source\repos\Estudos2\ClassesEObjetos\obj\Debug\ClassesEObjetos.pdb

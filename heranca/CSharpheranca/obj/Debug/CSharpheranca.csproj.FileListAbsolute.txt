@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\heranca\CSharpheranca\bin\Debug\CSharpheranca.exe.config
+C:\Users\igor.lima\source\repos\heranca\CSharpheranca\bin\Debug\CSharpheranca.exe
+C:\Users\igor.lima\source\repos\heranca\CSharpheranca\bin\Debug\CSharpheranca.pdb
+C:\Users\igor.lima\source\repos\heranca\CSharpheranca\obj\Debug\CSharpheranca.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\heranca\CSharpheranca\obj\Debug\CSharpheranca.exe
+C:\Users\igor.lima\source\repos\heranca\CSharpheranca\obj\Debug\CSharpheranca.pdb

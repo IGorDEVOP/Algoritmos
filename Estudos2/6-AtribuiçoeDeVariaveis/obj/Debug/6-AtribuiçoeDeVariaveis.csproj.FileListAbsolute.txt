@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\6-AtribuiçoeDeVariaveis\bin\Debug\6-AtribuiçoeDeVariaveis.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\6-AtribuiçoeDeVariaveis\bin\Debug\6-AtribuiçoeDeVariaveis.exe
+C:\Users\igor.lima\source\repos\Estudos2\6-AtribuiçoeDeVariaveis\bin\Debug\6-AtribuiçoeDeVariaveis.pdb
+C:\Users\igor.lima\source\repos\Estudos2\6-AtribuiçoeDeVariaveis\obj\Debug\6-AtribuiçoeDeVariaveis.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\6-AtribuiçoeDeVariaveis\obj\Debug\6-AtribuiçoeDeVariaveis.exe
+C:\Users\igor.lima\source\repos\Estudos2\6-AtribuiçoeDeVariaveis\obj\Debug\6-AtribuiçoeDeVariaveis.pdb

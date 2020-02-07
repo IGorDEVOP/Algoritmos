@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe.config
+C:\Users\igor.lima\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe
+C:\Users\igor.lima\source\repos\Estudos\Estudos\bin\Debug\Estudos.pdb
+C:\Users\igor.lima\source\repos\Estudos\Estudos\obj\Debug\Estudos.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos\Estudos\obj\Debug\Estudos.exe
+C:\Users\igor.lima\source\repos\Estudos\Estudos\obj\Debug\Estudos.pdb

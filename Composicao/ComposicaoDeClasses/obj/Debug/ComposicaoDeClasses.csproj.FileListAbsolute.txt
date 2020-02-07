@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Composicao\ComposicaoDeClasses\bin\Debug\ComposicaoDeClasses.exe.config
+C:\Users\igor.lima\source\repos\Composicao\ComposicaoDeClasses\bin\Debug\ComposicaoDeClasses.exe
+C:\Users\igor.lima\source\repos\Composicao\ComposicaoDeClasses\bin\Debug\ComposicaoDeClasses.pdb
+C:\Users\igor.lima\source\repos\Composicao\ComposicaoDeClasses\obj\Debug\ComposicaoDeClasses.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Composicao\ComposicaoDeClasses\obj\Debug\ComposicaoDeClasses.exe
+C:\Users\igor.lima\source\repos\Composicao\ComposicaoDeClasses\obj\Debug\ComposicaoDeClasses.pdb

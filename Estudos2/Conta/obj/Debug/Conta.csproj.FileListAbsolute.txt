@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\Conta\bin\Debug\Conta.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\Conta\bin\Debug\Conta.exe
+C:\Users\igor.lima\source\repos\Estudos2\Conta\bin\Debug\Conta.pdb
+C:\Users\igor.lima\source\repos\Estudos2\Conta\obj\Debug\Conta.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\Conta\obj\Debug\Conta.exe
+C:\Users\igor.lima\source\repos\Estudos2\Conta\obj\Debug\Conta.pdb

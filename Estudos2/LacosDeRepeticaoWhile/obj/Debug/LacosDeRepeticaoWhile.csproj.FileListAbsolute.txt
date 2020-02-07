@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\LacosDeRepeticaoWhile\bin\Debug\LacosDeRepeticaoWhile.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\LacosDeRepeticaoWhile\bin\Debug\LacosDeRepeticaoWhile.exe
+C:\Users\igor.lima\source\repos\Estudos2\LacosDeRepeticaoWhile\bin\Debug\LacosDeRepeticaoWhile.pdb
+C:\Users\igor.lima\source\repos\Estudos2\LacosDeRepeticaoWhile\obj\Debug\LacosDeRepeticaoWhile.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\LacosDeRepeticaoWhile\obj\Debug\LacosDeRepeticaoWhile.exe
+C:\Users\igor.lima\source\repos\Estudos2\LacosDeRepeticaoWhile\obj\Debug\LacosDeRepeticaoWhile.pdb

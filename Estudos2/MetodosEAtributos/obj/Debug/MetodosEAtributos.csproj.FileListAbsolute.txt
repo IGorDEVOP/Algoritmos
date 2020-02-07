@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\MetodosEAtributos\bin\Debug\MetodosEAtributos.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\MetodosEAtributos\bin\Debug\MetodosEAtributos.exe
+C:\Users\igor.lima\source\repos\Estudos2\MetodosEAtributos\bin\Debug\MetodosEAtributos.pdb
+C:\Users\igor.lima\source\repos\Estudos2\MetodosEAtributos\obj\Debug\MetodosEAtributos.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\MetodosEAtributos\obj\Debug\MetodosEAtributos.exe
+C:\Users\igor.lima\source\repos\Estudos2\MetodosEAtributos\obj\Debug\MetodosEAtributos.pdb

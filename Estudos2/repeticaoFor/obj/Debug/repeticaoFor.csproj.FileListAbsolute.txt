@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\repeticaoFor\bin\Debug\repeticaoFor.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\repeticaoFor\bin\Debug\repeticaoFor.exe
+C:\Users\igor.lima\source\repos\Estudos2\repeticaoFor\bin\Debug\repeticaoFor.pdb
+C:\Users\igor.lima\source\repos\Estudos2\repeticaoFor\obj\Debug\repeticaoFor.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\repeticaoFor\obj\Debug\repeticaoFor.exe
+C:\Users\igor.lima\source\repos\Estudos2\repeticaoFor\obj\Debug\repeticaoFor.pdb

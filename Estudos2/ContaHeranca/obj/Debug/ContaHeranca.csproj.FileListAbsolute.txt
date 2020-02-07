@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\Estudos2\ContaHeranca\bin\Debug\ContaHeranca.exe.config
+C:\Users\igor.lima\source\repos\Estudos2\ContaHeranca\bin\Debug\ContaHeranca.exe
+C:\Users\igor.lima\source\repos\Estudos2\ContaHeranca\bin\Debug\ContaHeranca.pdb
+C:\Users\igor.lima\source\repos\Estudos2\ContaHeranca\obj\Debug\ContaHeranca.csprojAssemblyReference.cache
+C:\Users\igor.lima\source\repos\Estudos2\ContaHeranca\obj\Debug\ContaHeranca.exe
+C:\Users\igor.lima\source\repos\Estudos2\ContaHeranca\obj\Debug\ContaHeranca.pdb

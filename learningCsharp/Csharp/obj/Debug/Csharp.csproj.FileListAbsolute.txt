@@ -1,0 +1,6 @@
+C:\Users\igor.lima\source\repos\learningCsharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\igor.lima\source\repos\learningCsharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\igor.lima\source\repos\learningCsharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\igor.lima\source\repos\learningCsharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\igor.lima\source\repos\learningCsharp\Csharp\obj\Debug\Csharp.pdb
+C:\Users\igor.lima\source\repos\learningCsharp\Csharp\obj\Debug\Csharp.csprojAssemblyReference.cache
